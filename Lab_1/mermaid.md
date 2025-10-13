@@ -83,5 +83,3 @@ erDiagram
     AUTHOR ||--o{ BOOK_AUTHOR : writes
     GENRE ||--o{ BOOK_GENRE : describes
 ```
-
-![ER Diagram](./Lab_1/mermaid_chart.png)
