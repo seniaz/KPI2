@@ -58,4 +58,4 @@ end
 @enduml
 ```
 
-![Use Case Diagram](rating_plantuml.png)
+![rating_plantuml](rating_plantuml.png)
