@@ -83,3 +83,5 @@ erDiagram
     AUTHOR ||--o{ BOOK_AUTHOR : writes
     GENRE ||--o{ BOOK_GENRE : describes
 ```
+
+![review_plantuml](mermaid_chart.png)
